@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-chartjs",
+    "description": "[Larakit] [staticfiles] sf-chartjs",
+    "version": "1.5.9",
+    "license": "MIT",
+    "require":{
+        "larakit/lk-staticfiles":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
